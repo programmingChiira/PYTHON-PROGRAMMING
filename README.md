@@ -2,7 +2,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Learning Path: Python, Web Development, AI, and Machine Learning</title>
 </head>
 <body>
     <h1>Learning Path: Python, Web Development, AI, and Machine Learning</h1>
