@@ -1,8 +1,6 @@
 # PYTHON-PROGRAMMING
 <!DOCTYPE html>
 <html>
-<head>
-</head>
 <body>
     <h1>Learning Path: Python, Web Development, AI, and Machine Learning</h1>
     <ol>
