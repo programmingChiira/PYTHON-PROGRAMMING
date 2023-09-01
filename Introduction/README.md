@@ -35,7 +35,10 @@
         <li>
             <h2>Python popular frameworks and libraries</h2>
             <ul>
-                <li></li>
+                <li>Web development (server side) - Django, Flask, Pyramid, CherryPy.</li>
+                <li>GUI-based applications - Tk, PyGTK, PyQt, PyJs.</li>
+                <li>Machine learning - TensorFlow, PyTorch, Scikit-learn, Metaplotlib, SciPy.</li>
+                <li>Mathematics - NumPy, Pandas.</li>
             </ul>
         </li>
         <li>
