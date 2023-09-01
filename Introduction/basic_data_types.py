@@ -1,3 +1,3 @@
 # Data types
-a = 22
+a = True
 print(type(a))
