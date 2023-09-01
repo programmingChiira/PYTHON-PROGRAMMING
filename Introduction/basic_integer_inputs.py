@@ -1,15 +1,4 @@
-#basic print
-print("Kenya")
-
-#basic arithimetic
-print(10+50)
-
-#varible use and printing
-x = 7
-print(x)
-print(type(x))
-
-#working with inputs and arithimetic
+# working with integer inputs and arithimetic
 x = int(input("Enter numerical value for X: "))
 y = int(input("Enter numerical value for Y: "))
 print("You have inputed the value for X as:", (x) , " and the value for Y as: ", (y))
