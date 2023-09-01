@@ -55,7 +55,12 @@
         <li>
             <h2>Companies using Python</h2>
             <ul>
-                <li></li>
+                <li>Google.</li>
+                <li>Quora.</li>
+                <li>Facebook.</li>
+                <li>Netflix.</li>
+                <li>Instagram.</li>
+                <li>Spotify.</li>
             </ul>
         </li>
     </ol>
