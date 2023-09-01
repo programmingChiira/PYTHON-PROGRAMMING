@@ -24,7 +24,12 @@
         <li>
             <h2>Uses of Python</h2>
             <ul>
-                <li></li>
+                <li>Develop desktop applications.</li>
+                <li>Build web applications.</li>
+                <li>Used in data science.</li>
+                <li>Used in game development.</li>
+                <li>Used in the field of artificial intelligence,</li>
+                <li>Used in machine learning.</li>
             </ul>
         </li>
         <li>
