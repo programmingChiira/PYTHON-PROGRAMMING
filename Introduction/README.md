@@ -13,7 +13,12 @@
         <li>
             <h2>Features of Python</h2>
             <ul>
-                <li></li>
+                <li>Easy to learn.</li>
+                <li>Cross platform.</li>
+                <li>Free and open source.</li>
+                <li>It is object-oriented.</li>
+                <li>Has a large library standard.</li>
+                <li>Memory management ( You do not have to assign the data type of the variable).</li>
             </ul>
         </li>
         <li>
