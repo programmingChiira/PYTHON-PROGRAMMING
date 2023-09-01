@@ -44,7 +44,12 @@
         <li>
             <h2>Best Python IDEs</h2>
             <ul>
-                <li></li>
+                <li>Jupyter notebook.</li>
+                <li>Visual Studio code.</li>
+                <li>Sublime text.</li>
+                <li>PyCharm.</li>
+                <li>IDLE.</li>
+                <li>Spyder notebook.</li>
             </ul>
         </li>
         <li>
