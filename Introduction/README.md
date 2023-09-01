@@ -6,7 +6,8 @@
         <li>
             <h2>What is Python</h2>
             <ul>
-                <li></li>
+                <li>It is a high-level object-oriented programming language.</li>
+                <li>It was developed by Guido Van Rossum in 1989 and was released in 1991</li>
             </ul>
         </li>
         <li>
