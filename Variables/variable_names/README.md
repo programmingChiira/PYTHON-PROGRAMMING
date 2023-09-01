@@ -1,4 +1,4 @@
-# Python Variables
+# Variable Names
 <!DOCTYPE html>
 <html>
 <body>
