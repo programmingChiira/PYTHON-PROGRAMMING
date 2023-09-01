@@ -1,3 +1,3 @@
-x = 'John'
-y = "John"
+x = 'Dennis'
+y = "Dennis"
 # x is same as y
