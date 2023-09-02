@@ -13,11 +13,13 @@
                 <p>Example.</p>
                 <ul>
                     <li>
-                        <code>
-                            x = 1    # int
-                            y = 2.8  # float
-                            z = 1j   # complex
-                        </code>
+                        <pre>
+                            <code>
+                                x = 1    # int
+                                y = 2.8  # float
+                                z = 1j   # complex
+                            </code>
+                        </pre>
                     </li>
                 </ul>
                 <p>To verify the type of any object in Python, use the type() function:</p>
