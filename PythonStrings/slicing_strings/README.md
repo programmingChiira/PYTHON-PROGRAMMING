@@ -1,4 +1,4 @@
-# Python StringsPython - Slicing Strings
+# Python - Slicing Strings
 <!DOCTYPE html>
 <html>
 <body>
