@@ -54,6 +54,51 @@
             </table>
         </li>
         <li>
+            <h2>Python Comparison Operators</h2>
+            <p>Comparison operators are used to compare two values:</p>
+            <table>
+                <thead>
+                    <tr>
+                        <th>Operator</th>
+                        <th>Name</th>
+                        <th>Example</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td><code> == </code></td>
+                        <td>Equal</td>
+                        <td><code>x == y</code></td>
+                    </tr>
+                    <tr>
+                        <td><code> != </code></td>
+                        <td>Not equal</td>
+                        <td><code>x != y</code></td>
+                    </tr>
+                    <tr>
+                        <td><code> > </code></td>
+                        <td>Greater than</td>
+                        <td><code>x > y</code></td>
+                    </tr>
+                    <tr>
+                        <td><code> < </code></td>
+                        <td>Less than</td>
+                        <td><code>x < y</code></td>
+                    </tr>
+                    <tr>
+                        <td><code> >= </code></td>
+                        <td>Greater than or equal to</td>
+                        <td><code>x >= y</code></td>
+                    </tr>
+                    <tr>
+                        <td><code> <= </code></td>
+                        <td>Less than or equal to</td>
+                        <td><code>x <= y</code></td>
+                    </tr>
+                </tbody>
+            </table>
+        </li>
+        <li>
             <h2>Python Identity Operators</h2>
             <p>Identity operators are used to compare the objects, not if they are equal, but if they are the same object, with the same memory location:
             </p>
