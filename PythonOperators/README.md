@@ -6,7 +6,7 @@
         <li>
             <h2>Python Arithmetic Operators</h2>
             <p>Arithmetic operators are used with numeric values to perform common mathematical operations:</p>
-            <table style="width: 100%;" class="table table-bordered">
+            <table>
                 <thead>
                     <tr>
                         <th>Operator</th>
