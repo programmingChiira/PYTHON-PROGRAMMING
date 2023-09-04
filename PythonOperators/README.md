@@ -16,9 +16,39 @@
                 </thead>
                 <tbody>
                     <tr>
-                        <td><code>x</code></td>
+                        <td><code>+</code></td>
                         <td>Addition</td>
                         <td><code>x + y</code></td>
+                    </tr>
+                    <tr>
+                        <td><code>-</code></td>
+                        <td>Subtraction</td>
+                        <td><code>x - y</code></td>
+                    </tr>
+                    <tr>
+                        <td><code>*</code></td>
+                        <td>Multiplication</td>
+                        <td><code>x * y</code></td>
+                    </tr>
+                    <tr>
+                        <td><code>/</code></td>
+                        <td>Division</td>
+                        <td><code>x / y</code></td>
+                    </tr>
+                    <tr>
+                        <td><code>%</code></td>
+                        <td>Modulus</td>
+                        <td><code>x % y</code></td>
+                    </tr>
+                    <tr>
+                        <td><code>**</code></td>
+                        <td>Exponentiation</td>
+                        <td><code>x ** y</code></td>
+                    </tr>
+                    <tr>
+                        <td><code>//</code></td>
+                        <td>Floor division</td>
+                        <td><code>x // y</code></td>
                     </tr>
                 </tbody>
             </table>
