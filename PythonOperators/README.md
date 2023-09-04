@@ -54,6 +54,86 @@
             </table>
         </li>
         <li>
+            <h2>Python Assignment Operators</h2>
+            <p>IAssignment operators are used to assign values to variables:</p>
+            <table>
+                <thead>
+                    <tr>
+                        <th>Operator</th>
+                        <th>Example</th>
+                        <th>Same As</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td><code> = </code></td>
+                        <td><code> x = 5 </code></td>
+                        <td><code> x = 5 </code></td>
+                    </tr>
+                    <tr>
+                        <td><code> += </code></td>
+                        <td><code> x += 5 </code></td>
+                        <td><code> x = x + 5 </code></td>
+                    </tr>
+                    <tr>
+                        <td><code> -= </code></td>
+                        <td><code> x -= 5 </code></td>
+                        <td><code> x = x - 5 </code></td>
+                    </tr>
+                    <tr>
+                        <td><code> *= </code></td>
+                        <td><code> x *= 5 </code></td>
+                        <td><code> x = x * 5 </code></td>
+                    </tr>
+                    <tr>
+                        <td><code> /= </code></td>
+                        <td><code> x /= 5 </code></td>
+                        <td><code> x = x / 5 </code></td>
+                    </tr>
+                    <tr>
+                        <td><code> %= </code></td>
+                        <td><code> x %= 5 </code></td>
+                        <td><code> x = x % 5 </code></td>
+                    </tr>
+                    <tr>
+                        <td><code> //= </code></td>
+                        <td><code> x //= 5 </code></td>
+                        <td><code> x = x // 5 </code></td>
+                    </tr>
+                    <tr>
+                        <td><code> **= </code></td>
+                        <td><code> x **= 5 </code></td>
+                        <td><code> x = x ** 5 </code></td>
+                    </tr>
+                    <tr>
+                        <td><code> &= </code></td>
+                        <td><code> x &= 5 </code></td>
+                        <td><code> x = x & 5 </code></td>
+                    </tr>
+                    <tr>
+                        <td><code> |= </code></td>
+                        <td><code> x |= 5 </code></td>
+                        <td><code> x = x | 5 </code></td>
+                    </tr>
+                    <tr>
+                        <td><code> ^= </code></td>
+                        <td><code> x ^= 5 </code></td>
+                        <td><code> x = x ^ 5 </code></td>
+                    </tr>
+                    <tr>
+                        <td><code> >>= </code></td>
+                        <td><code> x >>= 5 </code></td>
+                        <td><code> x = x >> 5 </code></td>
+                    </tr>
+                    <tr>
+                        <td><code> <<= </code></td>
+                        <td><code> x <<= 5 </code></td>
+                        <td><code> x = x << 5 </code></td>
+                    </tr>
+                </tbody>
+            </table>
+        </li>
+        <li>
             <h2>Python Comparison Operators</h2>
             <p>Comparison operators are used to compare two values:</p>
             <table>
