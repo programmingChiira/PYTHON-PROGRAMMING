@@ -16,6 +16,14 @@
                 <li>Use the <code>range()</code> and <code>len()</code> functions to create a suitable iterable.</li>
             </ul>
         </li>
+        <li>
+            <h2>Using a While Loop</h2>
+            <ul>
+                <li>You can loop through the list items by using a <code>while</code> loop.</li>
+                <li>Use the <code>len()</code> function to determine the length of the list, then start at 0 and loop your way through the list items by referring to their indexes.</li>
+                <li>Remember to increase the index by 1 after each iteration.</li>
+            </ul>
+        </li>
     </ol>
 </body>
 </html>
