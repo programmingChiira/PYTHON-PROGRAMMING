@@ -24,6 +24,13 @@
                 <li>Remember to increase the index by 1 after each iteration.</li>
             </ul>
         </li>
+        <li>
+            <h2>Looping Using List Comprehension</h2>
+            <ul>
+                <li>List Comprehension offers the shortest syntax for looping through lists:</li>
+                <li>A shorthand <code>for</code> loop that will print all items in a list:</li>
+            </ul>
+        </li>
     </ol>
 </body>
 </html>
