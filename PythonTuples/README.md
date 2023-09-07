@@ -44,6 +44,13 @@
                 <li>But there is a workaround. You can convert the tuple into a list, change the list, and convert the list back into a tuple.</li>
             </ul>
         </li>
+        <li>
+            <h2>Change Tuple Values</h2>
+            <ul>
+                <li>When we create a tuple, we normally assign values to it. This is called <code>"packing"</code> a tuple:</li>
+                <li>But, in Python, we are also allowed to extract the values back into variables. This is called <code>"unpacking"</code>:</li>
+            </ul>
+        </li>
     </ol>
 </body>
 </html>
