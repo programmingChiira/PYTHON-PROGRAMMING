@@ -37,6 +37,13 @@
                 <li>Tuples are unchangeable, meaning that we cannot change, add or remove items after the tuple has been created.</li>
             </ul>
         </li>
+        <li>
+            <h2>Change Tuple Values</h2>
+            <ul>
+                <li>Once a tuple is created, you cannot change its values. Tuples are unchangeable, or immutable as it also is called.</li>
+                <li>But there is a workaround. You can convert the tuple into a list, change the list, and convert the list back into a tuple.</li>
+            </ul>
+        </li>
     </ol>
 </body>
 </html>
