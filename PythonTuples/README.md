@@ -18,39 +18,6 @@
                 <li>Tuples are written with round brackets.</li>
             </ul>
         </li>
-        <li>
-            <h2>Tuple Items</h2>
-            <ul>
-                <li>Tuple items are ordered, unchangeable, and allow duplicate values.</li>
-                <li>Tuple items are indexed, the first item has index <code>[0]</code>, the second item has index <code>[1]</code> etc.</li>
-            </ul>
-        </li>
-        <li>
-            <h2>Ordered</h2>
-            <ul>
-                <li>When we say that tuples are ordered, it means that the items have a defined order, and that order will not change.</li>
-            </ul>
-        </li>
-        <li>
-            <h2>Unchangeable</h2>
-            <ul>
-                <li>Tuples are unchangeable, meaning that we cannot change, add or remove items after the tuple has been created.</li>
-            </ul>
-        </li>
-        <li>
-            <h2>Change Tuple Values</h2>
-            <ul>
-                <li>Once a tuple is created, you cannot change its values. Tuples are unchangeable, or immutable as it also is called.</li>
-                <li>But there is a workaround. You can convert the tuple into a list, change the list, and convert the list back into a tuple.</li>
-            </ul>
-        </li>
-        <li>
-            <h2>Change Tuple Values</h2>
-            <ul>
-                <li>When we create a tuple, we normally assign values to it. This is called <code>"packing"</code> a tuple:</li>
-                <li>But, in Python, we are also allowed to extract the values back into variables. This is called <code>"unpacking"</code>:</li>
-            </ul>
-        </li>
     </ol>
 </body>
 </html>
