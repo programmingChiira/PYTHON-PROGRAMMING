@@ -13,6 +13,13 @@
                 <li>Sets are written with curly brackets.</li>
             </ul>
         </li>
+        <li>
+            <h2>Access Items</h2>
+            <ul>
+                <li>You cannot access items in a set by referring to an index or a key.</li>
+                <li>But you can loop through the set items using a <code>for</code> loop, or ask if a specified value is present in a set, by using the <code>in</code> keyword.</li>
+            </ul>
+        </li>
     </ol>
 </body>
 </html>
