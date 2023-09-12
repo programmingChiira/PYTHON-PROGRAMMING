@@ -4,4 +4,5 @@ thisdict =	{
   "electric": False,
   "year": 1964,
   "colors": ["red", "white", "blue"]
-} 
+}
+print(type(thisdict)) 
