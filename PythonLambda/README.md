@@ -9,7 +9,6 @@
                 <li>A lambda function can take any number of arguments, but can only have one expression.</li>
                 <h3>SYNTAX: </h3>
                 <li><code> lambda arguments : expression </code></li>
-                <li>A lambda function can take any number of arguments, but can only have one expression.</li>
             </ul>
         </li>
     </ol>
