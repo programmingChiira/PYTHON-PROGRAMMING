@@ -3,6 +3,7 @@
 <html>
 <body>
     <h1>Learning Path: Python, Web Development, AI, and Machine Learning</h1>
+    <h1>I will be using W3schools, Search, Youtube, ChatGPT, and other different sources to learn.</h1>
     <ol>
         <li>
             <h2>Python Fundamentals:</h2>
