@@ -7,7 +7,8 @@ class Person:
         print(self.firstname, self.lastname)
 
 class Developer(Person):
-    pass
+    def __init__(self, fname, lname):
+        Person.__init__(self, fname, lname)
 
 x = Developer("Dennis", "Chiira")
 x.printname()
